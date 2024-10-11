@@ -6,6 +6,8 @@ Este repositorio contiene el código fuente de mi portafolio personal, desarroll
 
 El portafolio tiene como objetivo mostrar mis habilidades y proyectos realizados. La estructura está diseñada de manera responsive para adaptarse a diferentes dispositivos.
 
+![Example Image](https://github.com/SamuelZambrana/PorfolioVanillaJS/blob/main/assets/images/Captura.PNG)
+
 ## Tecnologías Utilizadas
 
 - HTML
